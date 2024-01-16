@@ -15,6 +15,9 @@
   
   ## Usage
   To use the README Generator, clone the repository, run npm install to install dependencies, and then execute node index.js in the terminal. Follow the prompts to input project details, and the application will generate a README.md file in the project directory.
+
+  [Link to a demo on how to use the application](https://drive.google.com/file/d/12Fe5nkWWrMQw-n-T_KuUM672ym7Usvgu/view?usp=sharing)
+
   
   ## License
   This project is licensed under the MIT license.
