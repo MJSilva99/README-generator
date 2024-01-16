@@ -9,6 +9,6 @@
   "author": "Michael Silva",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.4"
   }
 }
